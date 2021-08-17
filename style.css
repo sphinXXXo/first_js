@@ -213,6 +213,34 @@ color: white;}
 .page-footer a:hover{
 color: white;
 }
+.skills dd {
+  margin: 0;
+  margin-bottom: 10px;
 
+  background-color: #e8e8e8;
+}
+
+.skills-level {
+  font-size: 12px;
+  text-align: center;
+  color: black;
+  background-color: #77FCE6;
+}
+
+.skills-level-ok {
+  background-color: #F7ACFE;
+}
+
+h4 {
+  font-size: 32px;
+  line-height: normal;
+    font-family: 'Comfortaa', cursive;
+    text-decoration:none;
+    color: black;
+
+}
+.gloevk{
+  border-radius: 10%;
+}
 
 
